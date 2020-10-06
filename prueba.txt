@@ -1,3 +1,4 @@
 este es mi fichero de prueba 
 y ahora añado esto
 y esto otro más
+y ahora hago el commit desde consola
